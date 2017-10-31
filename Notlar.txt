@@ -1,0 +1,13 @@
+Kabarcık sıralama (Bubble)
+Hızlı sıralama (Quick)
+Yerleştirme sıralama(Insertion)
+Birleştirme sıralama (Merge)
+Seçme sıralaması (Selection)
+----------------
+Bağlı Liste (Linked List) (Tek-Çift Yönlü)
+Yığın (Stack)
+Kuyruk (Queue)
+----------------
+Infix'den geçiş:
+-Postfix
+-Prefix
